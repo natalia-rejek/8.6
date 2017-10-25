@@ -1,10 +1,8 @@
-// scripts.js
-
 var a = 4,
 	b = 3,
 	value;
 
-value = (a * a) - (2 * a * b) + (b * b),
+value = (a * a) - (2 * a * b) + (b * b);
 
 console.log('Final value of the calculation is equal to: ' + value);
 
